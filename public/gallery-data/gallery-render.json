@@ -1,0 +1,122 @@
+[
+  {
+    "src": ["/gallery-assets/render/boat.png"],
+    "title": "Stylized Boat",
+    "description": "A low-poly boat model floating on calm water."
+  },
+  {
+    "src": ["/gallery-assets/render/christmas3d.png"],
+    "title": "Christmas Scene",
+    "description": "A festive 3D scene celebrating Christmas."
+  },
+  {
+    "src": ["/gallery-assets/render/classical_building.png", "/gallery-assets/render/classical building.png"],
+    "title": "Classical Building Study",
+    "description": "Architectural render inspired by classical design principles."
+  },
+  {
+    "src": ["/gallery-assets/render/Containers.png"],
+    "title": "Shipping Containers",
+    "description": "A collection of colorful shipping containers."
+  },
+  {
+    "src": ["/gallery-assets/render/cutting_board.png", "/gallery-assets/render/cutting board.png"],
+    "title": "Wooden Cutting Board",
+    "description": "Realistic render of a wooden cutting board, focusing on texture and lighting."
+  },
+  {
+    "src": ["/gallery-assets/render/deck.png"],
+    "title": "Audio Deck",
+    "description": "Model of an audio deck or speaker component."
+  },
+  {
+    "src": ["/gallery-assets/render/desert COMP red.png", "/gallery-assets/render/desert COMP.png", "/gallery-assets/render/desertt.png"],
+    "title": "Desert Landscape",
+    "description": "Various compositions and renders of a stylized desert scene."
+  },
+  {
+    "src": ["/gallery-assets/render/donut.png"],
+    "title": "The Classic Donut",
+    "description": "A delicious-looking donut render, a common 3D modeling exercise."
+  },
+  {
+    "src": ["/gallery-assets/render/froggy.png", "/gallery-assets/render/froggy!.png", "/gallery-assets/render/froggy! - composited.png"],
+    "title": "Froggy!",
+    "description": "Different stages and compositions of a cute frog character model."
+  },
+  {
+    "src": ["/gallery-assets/render/HappyNewYear2022.png"],
+    "title": "Happy New Year 2022",
+    "description": "A celebratory graphic for the New Year 2022."
+  },
+  {
+    "src": ["/gallery-assets/render/HARSHEYBAR.png"],
+    "title": "Chocolate Bar",
+    "description": "A render resembling a Hershey's chocolate bar."
+  },
+  {
+    "src": ["/gallery-assets/render/Juice boxer - final.png"],
+    "title": "Juice Box Robot",
+    "description": "A fun character concept - a robot made from a juice box."
+  },
+  {
+    "src": ["/gallery-assets/render/mecher.png"],
+    "title": "Mechanical Character",
+    "description": "A mechanical or robotic character design."
+  },
+  {
+    "src": ["/gallery-assets/render/modular assets-Lights.png", "/gallery-assets/render/modular assets-Tables_Part 1.png"],
+    "title": "Modular Asset Pack",
+    "description": "Showcase of modular assets including lights and tables."
+  },
+  {
+    "src": ["/gallery-assets/render/Modular Sand House.png", "/gallery-assets/render/Modular Sand House Interior.png", "/gallery-assets/render/Modular Sand House cartoon.png"],
+    "title": "Modular Sand House",
+    "description": "Exterior, interior, and cartoon-style renders of a modular sand house design."
+  },
+  {
+    "src": ["/gallery-assets/render/My lamp.png"],
+    "title": "Desk Lamp",
+    "description": "A 3D model of a personal desk lamp."
+  },
+  {
+    "src": ["/gallery-assets/render/panda.png"],
+    "title": "Panda Model",
+    "description": "A cute 3D model of a panda."
+  },
+  {
+    "src": ["/gallery-assets/render/renderception.png"],
+    "title": "Renderception",
+    "description": "A meta concept - a render within a render."
+  },
+  {
+    "src": ["/gallery-assets/render/Sand House Cinematic.png", "/gallery-assets/render/Sand House Cinematic Comp.png"],
+    "title": "Sand House Cinematic Shots",
+    "description": "Cinematic compositions featuring the sand house model."
+  },
+  {
+    "src": ["/gallery-assets/render/snowflake.png"],
+    "title": "Snowflake",
+    "description": "A detailed 3D model of a snowflake."
+  },
+  {
+    "src": ["/gallery-assets/render/snowman.png"],
+    "title": "Snowman",
+    "description": "A cheerful 3D snowman model."
+  },
+  {
+    "src": ["/gallery-assets/render/sweet.png"],
+    "title": "Sweet Treat",
+    "description": "A render of a sweet or candy item."
+  },
+  {
+    "src": ["/gallery-assets/render/swords.png"],
+    "title": "Fantasy Swords",
+    "description": "A collection of 3D modeled swords."
+  },
+  {
+    "src": ["/gallery-assets/render/Tiger.png"],
+    "title": "Tiger Model",
+    "description": "A 3D model of a tiger."
+  }
+]

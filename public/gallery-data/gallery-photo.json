@@ -1,0 +1,12 @@
+[
+  {
+    "src": ["/gallery-assets/photo/placeholder1.jpg"],
+    "title": "Placeholder Photo 1",
+    "description": "This is a placeholder for a photography item."
+  },
+  {
+    "src": ["/gallery-assets/photo/placeholder2.jpg", "/gallery-assets/photo/placeholder3.jpg"],
+    "title": "Placeholder Photo Set",
+    "description": "This is a placeholder for a photography set with multiple images."
+  }
+]
